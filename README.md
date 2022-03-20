@@ -2,6 +2,9 @@
 Synergy'22 Hackathon
 
 TEAM- INNOVATORS
+Kausalyaa Sri (CSE)
+Dharaneish.V.C (CSE)
+Kota Venkata Leela Tejaswini (CSE)
 
 PROBLEM STATEMENT: To create an efficient solution to give heath care facilities and suggestion online through a Completely supervised Web application.  that has service to Consult Doctors online, 
 
